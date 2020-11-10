@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "81212056510",
+    "firebase_url": "https://advanced-android-development-1.firebaseio.com",
+    "project_id": "advanced-android-development-1",
+    "storage_bucket": "advanced-android-development-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81212056510:android:1672d25d9e830aaddc8fef",
+        "android_client_info": {
+          "package_name": "com.asbollapragada.firebase_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81212056510-3f1pr9uphi1ttoakuj23n8ks0c042tf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asbollapragada.firebase_database",
+            "certificate_hash": "6d4b1f30d7c4af151f98734ab5a95a8ee65f0946"
+          }
+        },
+        {
+          "client_id": "81212056510-ogilbvpk8rrru9d5l0ea38gfet8bkfv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf-kzOSbLy1kl4QqZ2PyoJEcCI4dEQFsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81212056510-ogilbvpk8rrru9d5l0ea38gfet8bkfv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81212056510:android:7fb306244b1e9c30dc8fef",
+        "android_client_info": {
+          "package_name": "com.asbollapragada.firebase_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81212056510-0fchc06ksfl5816c09nrn9qubuqdg17s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asbollapragada.firebase_example",
+            "certificate_hash": "6d4b1f30d7c4af151f98734ab5a95a8ee65f0946"
+          }
+        },
+        {
+          "client_id": "81212056510-ogilbvpk8rrru9d5l0ea38gfet8bkfv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf-kzOSbLy1kl4QqZ2PyoJEcCI4dEQFsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81212056510-ogilbvpk8rrru9d5l0ea38gfet8bkfv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81212056510:android:6418b61a0e7d07efdc8fef",
+        "android_client_info": {
+          "package_name": "com.asbollapragada.firebase_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81212056510-sr4lhvsqis4vlt3bk5pquhlhmkmvja9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asbollapragada.firebase_store",
+            "certificate_hash": "6d4b1f30d7c4af151f98734ab5a95a8ee65f0946"
+          }
+        },
+        {
+          "client_id": "81212056510-ogilbvpk8rrru9d5l0ea38gfet8bkfv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf-kzOSbLy1kl4QqZ2PyoJEcCI4dEQFsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81212056510-ogilbvpk8rrru9d5l0ea38gfet8bkfv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
